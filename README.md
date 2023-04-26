@@ -14,10 +14,6 @@ Once you have the plugin installed, you can open the project in Unity and naviga
 
 You can also view the `bHapticsCommands.cs` script to see how the haptic feedback is triggered using the Bhaptics SDK.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 
 - Thanks to Bhaptics for providing the haptic technology and SDK used in this demo.
